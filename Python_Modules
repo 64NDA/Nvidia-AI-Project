@@ -1,0 +1,7 @@
+Python Modules to be installed
+
+opencv-python 4.6.0.66, pip install opencv-python
+keras 2.9.0, pip install keras
+Pillow 9.2.0, pip install Pillow
+tensorflow 2.9.1, pip install tensorflow
+argparse 1.4.0, pip install argparse

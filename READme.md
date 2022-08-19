@@ -1,7 +1,7 @@
 # Rock Paper Scissors Using AI
 
- This projects allows you to play rock paper scissors using real hand gestures. 
- 
+This projects allows you to play rock paper scissors using real hand gestures. 
+Images/DEMO_screenshot.png
 [Image of Program Running](https://i.imgur.com/2vUfgM6.png)
 
 ## The Algorithm

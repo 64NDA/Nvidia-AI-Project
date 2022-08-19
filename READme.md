@@ -2,8 +2,7 @@
 
  This projects allows you to play rock paper scissors using real hand gestures. 
  
-
-![add image descrition here](direct image link here)
+[Image of Program Running](https://i.imgur.com/2vUfgM6.png)
 
 ## The Algorithm
 

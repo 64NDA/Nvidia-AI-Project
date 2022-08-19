@@ -15,7 +15,7 @@ sidenote: The AI was trained to be able to recognise a few other hand gestures: 
 
 ## Running this project
 
-1. Make sure Python and PIP is up to date and install all necessary modules listed in python_modules.
+1. Make sure Python and PIP is up to date and install all necessary modules listed in python_modules https://github.com/64NDA/Nvidia-AI-Project/blob/main/Python_Modules.
 2. Make sure all files inside of the Gesture_AI_Project file are downloaded together and remain within the same folder.
 3. Run the GestureAIProject.py file.
 4. Wait. The camera takes some time to connect.

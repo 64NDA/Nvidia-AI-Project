@@ -21,4 +21,4 @@ sidenote: The AI was trained to be able to recognise a few other hand gestures: 
 6. With the test window selected, Spacebar can be pressed to input an image. The program will then run.
 7. Escape can be pressed to exit the program.
 
-[View a video explanation here](video link)
+![View a video explanation here](https://youtu.be/krHzueQurew)

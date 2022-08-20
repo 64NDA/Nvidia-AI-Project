@@ -1,7 +1,0 @@
-0 Palm
-1 Fist
-2 Peace
-3 OK
-4 Point/One
-5 Thumbs Up
-6 Thumbs Down
